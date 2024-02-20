@@ -11,7 +11,7 @@ public class Palindrome {
 		rev=rev*10+rem;
 		n=n/10;
 				
-	}
+	} 
 	
 	return (temp==rev);
 	}

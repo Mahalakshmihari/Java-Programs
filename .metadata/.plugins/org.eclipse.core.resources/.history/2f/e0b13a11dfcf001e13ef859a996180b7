@@ -1,0 +1,28 @@
+package problems;
+
+import java.util.Scanner;
+
+public class RecentlyUsedList {
+	public static void main(String[] args) {
+	
+		StringBuffer s=new StringBuffer(4);
+		Scanner sc1=new Scanner(System.in);
+		System.out.println("enter a string: ");
+		s=s.append(sc1.next());
+		if(s.length()<=4) {
+		System.out.println(s);
+		}else
+		{
+			s=s.;
+		}
+		
+		
+		
+		
+		
+		
+		
+	}
+
+
+}
